@@ -1,0 +1,18 @@
+header {                                      
+    font-family: Arial, sans-serif;
+    background-color: #8c8787;
+    text-align: center;
+    padding: 50px;
+}
+img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 10px;
+    align-items: center;
+}
+h1 {
+    color: #1329cf;
+}
+footer{
+    text-align: center;
+}
